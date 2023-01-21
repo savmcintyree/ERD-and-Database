@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "ERD",
+            "connectString": "postgres://vhdgjcak:S9LKzGFDPXL-hRlJDWUOsAMqCt28btXZ@mahmud.db.elephantsql.com/vhdgjcak"
+        }
+    ]
+}
